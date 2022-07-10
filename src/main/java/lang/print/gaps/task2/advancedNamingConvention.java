@@ -5,12 +5,15 @@ public class advancedNamingConvention {
      int age;
      int phoneNumber;
 
-    public static void callToFriend() {
+     public static void callToFriend() {
         System.out.println(adult_age);
         //some code
 
     }
-    void callByNumber(int Number){
+     void callByNumber(int Number){
         //some code
+    }
+     public static void main(String[] args) {
+
     }
 }
